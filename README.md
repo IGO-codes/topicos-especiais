@@ -1,2 +1,2 @@
-# topicos-especiais
-Atividade 01
+# topicos-especiais - Atividade 01
+Exemplificar IC
